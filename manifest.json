@@ -3,7 +3,7 @@
   "name": "Beshify",
   "version": "0.0.1",
   "description": "Beshify Text Formatter allows users to easily insert a 🤸 emoji between each word in their text on any webpage.",
-  "permissions": ["contextMenus"],
+  "permissions": ["activeTab", "contextMenus"],
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
